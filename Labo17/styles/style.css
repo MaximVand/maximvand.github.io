@@ -1,0 +1,12 @@
+#playField{
+    border: #0e0e0e 1px solid;
+    width: 600px;
+    height: 600px;
+    position: relative;
+    // aanvullen met hoogte en breedte
+}
+
+
+#target {
+    position: absolute;
+}
